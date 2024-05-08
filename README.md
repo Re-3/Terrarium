@@ -7,7 +7,7 @@ Proyecto Terrarium para Programacion Web TecNM/ITGAM
 ## Autor
 <img
 style="border:red 5px dottedd; margin:0"
-src="https://github.com/account"
+src="https://github.com/Re-3"
 olt= "Rebeca Carrillo Mendoza"
 width="200px">
 
